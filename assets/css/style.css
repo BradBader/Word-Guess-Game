@@ -14,8 +14,20 @@ h1 {
     text-align: center;
 }
 
+h3 { 
+    width: 100%;
+    text-align: center;
+}
+
 .bPad {
     padding-bottom: 10px;
+    margin-right: 17px;
+}
+
+.ctr {align-content: center}
+
+#kanyeOne {
+        width: 90%;
 }
 
 
@@ -24,8 +36,8 @@ h1 {
     border-left: dashed white 3px;
     border-top: dashed white 3px;
     border-bottom: dashed white 3px;
-    border-right: dashed white 10px;
-    margin: 10px 0px 10px 10px;
+    border-right: dashed white 3px;
+    margin: 10px 0px 7px 10px;
     padding: 10px 10px 500px 10px;
 }
 
@@ -35,5 +47,5 @@ h1 {
     border-right: dashed white 3px;
     border-bottom: dashed white 3px;
     margin: 10px 10px 10px 0px;
-    padding: 10px 0px 500px 10px;
+    padding: 10px 0px 500px 20px;
 }
