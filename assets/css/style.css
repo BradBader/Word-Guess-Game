@@ -1,1 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+} 
 
+head {     
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.bPad {
+    padding-bottom: 10px;
+}
+
+
+#leftBox {
+    border-style: dashed white 3px;
+    border-left: dashed white 3px;
+    border-top: dashed white 3px;
+    border-bottom: dashed white 3px;
+    border-right: dashed white 10px;
+    margin: 10px 0px 10px 10px;
+    padding: 10px 10px 500px 10px;
+}
+
+#rightBox {
+    border-style: dashed white 3px;
+    border-top: dashed white 3px;
+    border-right: dashed white 3px;
+    border-bottom: dashed white 3px;
+    margin: 10px 10px 10px 0px;
+    padding: 10px 0px 500px 10px;
+}
